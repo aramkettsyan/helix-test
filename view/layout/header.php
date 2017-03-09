@@ -9,6 +9,7 @@
     </head>
     <body>
     <div id="menu">
+        <div id="logo"><a href="/site/index"><img src="/img/attachment.png"></a></div>
         <ul>
             <li><a href="/site/users">Users</a></li>
             <li><a href="/site/index">Upload</a></li>
